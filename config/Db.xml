@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration type="database">
+<database>
+    <host>localhost</host>
+    <username>root</username>
+    <password></password>
+    <dbname>students_data</dbname>
+    <type>mysql</type>
+</database>
+</configuration>
